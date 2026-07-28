@@ -27,6 +27,10 @@
 
 ---
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/azestkingscrown/svg?sort=cost&tokens=full&cost=full)](https://tokscale.ai/u/azestkingscrown)
+
+---
+
 ### Support Me
 <p align="center">
   <a href="https://qr.kakaopay.com/Ej8ChKQdu" target="_blank">
