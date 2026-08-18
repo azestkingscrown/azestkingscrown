@@ -11,7 +11,7 @@
 
 ---
 
-### Featured Projects
+### Main Repo
 * **[Chzzk-Chat-Crawler](https://github.com/azestkingscrown/Chzzk-Chat-Crawler)** / **[Chzzk-Noti-Discord-Bot](https://github.com/azestkingscrown/Chzzk-Noti-Discord-Bot)**: Discord notification bot and chat crawler integrated with Naver's streaming platform, Chzzk.
 
 ---
