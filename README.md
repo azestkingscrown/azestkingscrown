@@ -27,6 +27,15 @@
 
 ---
 
+### Discord Status
+<p align="center">
+  <a href="https://discord.com/users/1479354469828268097">
+    <img src="https://lanyard.cnrad.dev/api/1479354469828268097?theme=dark&borderRadius=12px&animated=true" alt="Discord Status" />
+  </a>
+</p>
+
+---
+
 [![Tokscale Stats](https://tokscale.ai/api/embed/azestkingscrown/svg?sort=cost&tokens=full&cost=full)](https://tokscale.ai/u/azestkingscrown)
 
 ---
