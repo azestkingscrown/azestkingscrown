@@ -30,7 +30,7 @@
 ### Discord Status
 <p align="center">
   <a href="https://discord.com/users/1479354469828268097">
-    <img src="https://lanyard.cnrad.dev/api/1479354469828268097?theme=dark&borderRadius=12px&animated=true" alt="Discord Status" />
+    <img src="https://azestkingscrown.com/api/discord-status" alt="Discord Status" />
   </a>
 </p>
 
