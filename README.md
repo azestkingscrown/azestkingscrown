@@ -1,3 +1,17 @@
+
+### Online Status
+<p align="center">
+  <a href="https://discord.com/users/1479354469828268097">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://azestkingscrown.com/api/discord-status?theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/discord-status?theme=light">
+      <img src="https://azestkingscrown.com/api/discord-status" alt="Discord Status" />
+    </picture>
+  </a>
+</p>
+
+---
+
 ### Tech Stack
 
 | Category | Technologies |
@@ -38,20 +52,7 @@
 </p>
 
 ---
-
-### Discord Status
-<p align="center">
-  <a href="https://discord.com/users/1479354469828268097">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://azestkingscrown.com/api/discord-status?theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/discord-status?theme=light">
-      <img src="https://azestkingscrown.com/api/discord-status" alt="Discord Status" />
-    </picture>
-  </a>
-</p>
-
----
-
+### Tokscale Stats
 <p align="center">
   <a href="https://tokscale.ai/u/azestkingscrown" target="_blank">
     <picture>
@@ -59,18 +60,5 @@
       <source media="(prefers-color-scheme: light)" srcset="https://tokscale.ai/api/embed/azestkingscrown/svg?sort=cost&tokens=full&cost=full&theme=light">
       <img src="https://tokscale.ai/api/embed/azestkingscrown/svg?sort=cost&tokens=full&cost=full" alt="Tokscale Stats" />
     </picture>
-  </a>
-</p>
-
----
-
-### Support Me
-<p align="center">
-  <a href="https://qr.kakaopay.com/Ej8ChKQdu" target="_blank">
-    <img src="https://img.shields.io/badge/Kakaopay-FEE500?style=for-the-badge&logo=kakaotalk&logoColor=black" alt="Kakaopay" height="36" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/azestkingscrown" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" height="36" />
   </a>
 </p>
