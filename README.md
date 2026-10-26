@@ -21,7 +21,7 @@
   </picture>
 
 ---
-### AI Token Usage Stats
+### AI Token Usage Stats [ Tokscale.ai ]
 <p align="center">
   <a href="https://tokscale.ai/u/azestkingscrown" target="_blank">
     <picture>
