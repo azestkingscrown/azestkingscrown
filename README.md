@@ -15,9 +15,9 @@
 ### GitHub Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=azestkingscrown&show_icons=true&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=azestkingscrown&show_icons=true&theme=default">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=azestkingscrown&show_icons=true&theme=tokyonight" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="(https://github-stats-extended.vercel.app/api?username=azestkingscrown&show_icons=true&theme=tokyonight&count_private=true)">
+    <source media="(prefers-color-scheme: light)" srcset="(https://github-stats-extended.vercel.app/api?username=azestkingscrown&show_icons=true&theme=tokyonight&count_private=true)">
+    <img src="https://github-stats-extended.vercel.app/api?username=azestkingscrown&show_icons=true&theme=tokyonight&count_private=true" height="180" />
   </picture>
 
 ---
