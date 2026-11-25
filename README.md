@@ -12,6 +12,19 @@
 
 ---
 
+### Server Status
+<p align="center">
+  <a href="https://azestkingscrown.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://azestkingscrown.com/api/server-status?theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/server-status?theme=light">
+      <img src="https://azestkingscrown.com/api/server-status" alt="Server Status" />
+    </picture>
+  </a>
+</p>
+
+---
+
 ### GitHub Stats
 <p align="center">
   <picture>
