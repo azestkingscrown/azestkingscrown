@@ -39,9 +39,9 @@
 <p align="center">
   <a href="https://tokscale.ai/u/azestkingscrown" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://tokscale.ai/api/embed/azestkingscrown/svg?rank=percent&tokens=full&cost=full&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://tokscale.ai/api/embed/azestkingscrown/svg?rank=percent&tokens=full&cost=full&theme=light">
-      <img src="https://tokscale.ai/api/embed/azestkingscrown/svg?rank=percent&tokens=full&cost=full&theme=dark" alt="Tokscale Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://azestkingscrown.com/api/tokscale-status?theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/tokscale-status?theme=light">
+      <img src="https://azestkingscrown.com/api/tokscale-status?theme=dark" alt="Tokscale Stats" />
     </picture>
   </a>
 </p>
