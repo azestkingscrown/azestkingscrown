@@ -27,9 +27,9 @@
 ### GitHub Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=azestkingscrown&show_icons=true&count_private=true&bg_color=161616&title_color=fafafa&text_color=aeaeae&icon_color=dbdbdb&border_color=2e2e2e&ring_color=fafafa&border_radius=8">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=azestkingscrown&show_icons=true&count_private=true&bg_color=ffffff&title_color=161616&text_color=5c5c5c&icon_color=5c5c5c&border_color=e0e0e0&ring_color=161616&border_radius=8">
-    <img src="https://github-stats-extended.vercel.app/api?username=azestkingscrown&show_icons=true&count_private=true&bg_color=161616&title_color=fafafa&text_color=aeaeae&icon_color=dbdbdb&border_color=2e2e2e&ring_color=fafafa&border_radius=8" alt="GitHub Stats" height="180" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://azestkingscrown.com/api/github-stats?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/github-stats?theme=light">
+    <img src="https://azestkingscrown.com/api/github-stats?theme=dark" alt="GitHub Stats" height="180" />
   </picture>
 </p>
 
