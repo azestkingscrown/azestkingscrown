@@ -31,6 +31,11 @@
     <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/github-stats?theme=light">
     <img src="https://azestkingscrown.com/api/github-stats?theme=dark" alt="GitHub Stats" height="180" />
   </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://azestkingscrown.com/api/github-top-langs?theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://azestkingscrown.com/api/github-top-langs?theme=light">
+    <img src="https://azestkingscrown.com/api/github-top-langs?theme=dark" alt="Most Used Languages" height="180" />
+  </picture>
 </p>
 
 ---
